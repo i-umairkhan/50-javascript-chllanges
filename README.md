@@ -1,7 +1,7 @@
 # 50-javascript-chllanges
 Completing 50 JavaScript Chllanges from codedamn platform
 https://codedamn.com/learn/50-days-of-js
-# Functions
+# Challanges
 1-Function which returns a random number in the given range.<br/>
 2-Write a program to reverse a string.<br/>
 3-Write a program to reverse a given integer number.<br/>
