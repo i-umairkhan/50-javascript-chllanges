@@ -2,7 +2,7 @@
 Completing 50 JavaScript Chllanges from codedamn platform
 https://codedamn.com/learn/50-days-of-js
 # Functions
-1-Function which returns a random number in the given range.\n
+1-Function which returns a random number in the given range.<br />
 2-Write a program to reverse a string.
 3-Write a program to reverse a given integer number.
 4-Write a function which can convert the time input given in 12 hours format to 24 hours format.
